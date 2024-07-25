@@ -1,16 +1,13 @@
 # menu_bugz
 
-A new Flutter project.
+## Another Buggy Flutter project.
 
-## Getting Started
+### Click the menu and it pops down, as you move the mouse down, the sub menus appear and disappear as normal.
 
-This project is a starting point for a Flutter application.
+### But click a second time and move the mouse down and now the submenus stay put and they dont disappear as they should.
 
-A few resources to get you started if this is your first Flutter project:
+### Please Un-ban my account from Flutter Github: sgehrman@gmail.com
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Bug Confirmed on Linux and Web, but probably happens on all platforms
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Still need a hotfix for the Web downloading files hang. 3.22.x has been a disaster
