@@ -97,6 +97,11 @@ class _MyHomePageState extends State<MyHomePage> {
               'Bug Confirmed on Linux and Web, but probably happens on all platforms',
               textAlign: TextAlign.center,
             ),
+            const SizedBox(height: 10),
+            const Text(
+              'Still need a hotfix for the Web downloading files hang. 3.22.x has been a disaster',
+              textAlign: TextAlign.center,
+            ),
           ],
         ),
       ),
